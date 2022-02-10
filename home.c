@@ -45,7 +45,7 @@ int cabecalho(){
 
 void rodape(){
     printf("UFSC Blumenau - Universidade Federal de Santa Catarina\n");
-    printf("Developed by:\n       Carlos Jose Persuhn\n       Tiago Lora Hansen\n       Tulio Vinicius Coutinho Salustiano\n       Victor Hugo Girardi");
+    printf("Developed by:\n       Carlos Jose Persuhn");
     printf("\nSemestre: 2021-1\n");
     printf("Plataforma utilizada: VSCode\n");
     printf("Sistema operacional: Windows 10");
